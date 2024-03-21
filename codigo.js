@@ -4,6 +4,21 @@ import { sortAndDisplayRows } from './functions.js';
 $(document).ready(function() {
     //Extracting JSON information for the IDs.
     fetchIds(select_start => {
+        //Search mechanism of the filter
+        $('#search-input').on('keyup', function() {
+            var value = $(this).val().toLowerCase();
+            
+            $('.list-row').filter(function() {
+                var matchValue = false;
+                $(this).find('.label-list').each(function() {
+                    // If the label text matches the search value, set match to true
+                    if ($(this).text().toLowerCase().indexOf(value) > -1) {
+                        matchValue = true;
+                    }
+                });
+                $(this).toggle(matchValue);
+            });
+        });
         let sortAscending=true;
         let filter_label=0; 
         //Selecting the container that all the rows/buttons are in.
@@ -11,12 +26,12 @@ $(document).ready(function() {
         //Creating the identities rows and putting them in the container.
         select_start.forEach(item => {
             const firstDivRow = document.createElement('div');
-                firstDivRow.className = 'row';        
+                firstDivRow.className = 'row list-row';        
             const secondDivRow = document.createElement('div');
                 secondDivRow.className = 'row';   
             const idNameDiv = document.createElement('div');
                 let idFinalName;
-                idNameDiv.className = "col-md-6 p-0";
+                idNameDiv.className = "col-md-6 p-0 label-list";
                 if(item.special_group){
                     idFinalName = item.addon+" "+item.sinner_name;
                 }
@@ -30,13 +45,13 @@ $(document).ready(function() {
                 }
                 idNameDiv.textContent=idFinalName;
             const sinnerNameDiv = document.createElement('div');
-                sinnerNameDiv.className = "col-md-2 p-0";
+                sinnerNameDiv.className = "col-md-2 p-0 label-list";
                 sinnerNameDiv.textContent = item.sinner_name;
             const rarityDiv = document.createElement('div');
-                rarityDiv.className = "col-md-2 p-0 text-center";
+                rarityDiv.className = "col-md-2 p-0 text-center label-list";
                 rarityDiv.textContent = item.rarity;
             const seasonDiv = document.createElement('div');
-                seasonDiv.className = "col-md-2 p-0 text-center";
+                seasonDiv.className = "col-md-2 p-0 text-center label-list";
                 seasonDiv.textContent = item.season;        
             const identityList = document.createElement('button');
                 identityList.setAttribute("type","button");
