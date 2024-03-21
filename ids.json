@@ -1,0 +1,2309 @@
+{
+    "id":
+        [
+            {  
+                "sinner_name": "Yi Sang",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 171,
+                "speed": [4,8],
+                "def_level": -2,
+                "resistances": {
+                    "slash":2,
+                    "pierce":0.5,
+                    "blunt":1   
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[65,35,15],
+                "tag":["Sinking","Fragile"],
+                "skill1":{
+                    "name":"Deflect",
+                    "sin":"Gloom",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"End-stop Stab",
+                    "sin":"Envy",
+                    "dmg_type":"Pierce",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Enjamb",
+                    "sin":"Sloth",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":2,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Gloom",
+                    "level":-2,
+                    "atk_weight":1,
+                    "base_power":7,
+                    "coin_power":3
+                }
+            },
+            {  
+                "sinner_name": "Sinclair",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 143,
+                "speed": [3,7],
+                "def_level": -4,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":2,
+                    "blunt":1   
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[70,40,20],
+                "tag":["Rupture"],
+                "skill1":{
+                    "name":"Downward Swing",
+                    "sin":"Pride",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Halberd Combo",
+                    "sin":"Wrath",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":2,
+                    "coin_number":3
+                },
+                "skill3":{
+                    "name":"Ravaging Cut",
+                    "sin":"Envy",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Counter",
+                    "sin":"Pride",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":7,
+                    "coin_power":4
+                }
+            },
+            {  
+                "sinner_name": "Ryōshū",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 157,
+                "speed": [3,6],
+                "def_level": -4,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":1,
+                    "blunt":2   
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[70,40,20],
+                "tag":["Poise"],
+                "skill1":{
+                    "name":"Paint",
+                    "sin":"Gluttony",
+                    "dmg_type":"Slash",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Splatter",
+                    "sin":"Lust",
+                    "dmg_type":"Slash",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":5,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Brushstroke",
+                    "sin":"Pride",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Evade",
+                    "sin":"Gluttony",
+                    "level":-2,
+                    "atk_weight":1,
+                    "base_power":2,
+                    "coin_power":10
+                }
+            },
+            {  
+                "sinner_name": "Rodion",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 186,
+                "speed": [2,5],
+                "def_level":0,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":2,
+                    "blunt":1   
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[65,35,15],
+                "tag":["Bleed"],
+                "skill1":{
+                    "name":"Strike Down",
+                    "sin":"Gluttony",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Axe Combo",
+                    "sin":"Pride",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Slay",
+                    "sin":"Wrath",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":2,
+                    "coin_number":4
+                },
+                "defense":{
+                    "type":"Counter",
+                    "sin":"Wrath",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":7,
+                    "coin_power":4
+                }
+            },
+            {  
+                "sinner_name": "Outis",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 143,
+                "speed": [3,7],
+                "def_level": -4,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":1,
+                    "blunt":2   
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[70,40,20],
+                "tag":["Rupture"],
+                "skill1":{
+                    "name":"Pulled Blade",
+                    "sin":"Sloth",
+                    "dmg_type":"Pierce",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":2,
+                    "coin_number":3
+                },
+                "skill2":{
+                    "name":"Backslash",
+                    "sin":"Pride",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Piercing Thrust",
+                    "sin":"Gloom",
+                    "dmg_type":"Pierce",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":7,
+                    "coin_power":14,
+                    "coin_number":1
+                },
+                "defense":{
+                    "type":"Evade",
+                    "sin":"Sloth",
+                    "level":-3,
+                    "atk_weight":1,
+                    "base_power":2,
+                    "coin_power":10
+                }
+            },
+            {  
+                "sinner_name": "Meursault",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 214,
+                "speed": [2,3],
+                "def_level": 3,
+                "resistances": {
+                    "slash":1,
+                    "pierce":2,
+                    "blunt":0.5   
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[50,20],
+                "tag":["Tremor"],
+                "skill1":{
+                    "name":"Un, Deux",
+                    "sin":"Sloth",
+                    "dmg_type":"Blunt",
+                    "level":-3,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Nailing Fist",
+                    "sin":"Pride",
+                    "dmg_type":"Blunt",
+                    "level":-3,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":9,
+                    "coin_number":1
+                },
+                "skill3":{
+                    "name":"Des Coups",
+                    "sin":"Gloom",
+                    "dmg_type":"Blunt",
+                    "level":-3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":2,
+                    "coin_number":4
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Sloth",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":10,
+                    "coin_power":3
+                }
+            },
+            {  
+                "sinner_name": "Ishmael",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 186,
+                "speed": [5,8],
+                "def_level": 0,
+                "resistances": {
+                    "slash":2,
+                    "pierce":1,
+                    "blunt":0.5   
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[60,30],
+                "tag":["Tremor"],
+                "sub_tag": ["Blunt Fragility"],
+                "skill1":{
+                    "name":"Loggerhead",
+                    "sin":"Wrath",
+                    "dmg_type":"Blunt",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Slide",
+                    "sin":"Gluttony",
+                    "dmg_type":"Blunt",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":9,
+                    "coin_number":1
+                },
+                "skill3":{
+                    "name":"Shield Bash",
+                    "sin":"Gloom",
+                    "dmg_type":"Blunt",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":8,
+                    "coin_power":12,
+                    "coin_number":1
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Wrath",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":7,
+                    "coin_power":3
+                }
+            },
+            {  
+                "sinner_name": "Hong Lu",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 157,
+                "speed": [3,6],
+                "def_level": -2,
+                "resistances": {
+                    "slash":2,
+                    "pierce":1,
+                    "blunt":0.5   
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[70,40,20],
+                "tag":["Sinking","Rupture"],
+                "sub_tag": ["Attack Power Down"],
+                "skill1":{
+                    "name":"Downward Cleave",
+                    "sin":"Pride",
+                    "dmg_type":"Blunt",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Dual Strike",
+                    "sin":"Sloth",
+                    "dmg_type":"Slash",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Whirlwind",
+                    "sin":"Lust",
+                    "dmg_type":"Blunt",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "defense":{
+                    "type":"Evade",
+                    "sin":"Sloth",
+                    "level":-2,
+                    "atk_weight":1,
+                    "base_power":2,
+                    "coin_power":10
+                }
+            },
+            {  
+                "sinner_name": "Heathcliff",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 186,
+                "speed": [2,5],
+                "def_level": 0,
+                "resistances": {
+                    "slash":2,
+                    "pierce":1,
+                    "blunt":0.5  
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[65,35,15],
+                "tag":["Tremor"],
+                "skill1":{
+                    "name":"Bat Bash",
+                    "sin":"Envy",
+                    "dmg_type":"Blunt",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Smackdown",
+                    "sin":"Wrath",
+                    "dmg_type":"Blunt",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Upheaval",
+                    "sin":"Lust",
+                    "dmg_type":"Blunt",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":8,
+                    "coin_number":2
+                },
+                "defense":{
+                    "type":"Counter",
+                    "sin":"Envy",
+                    "dmg_type":"Blunt",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":7,
+                    "coin_power":4
+                }
+            },
+            {  
+                "sinner_name": "Gregor",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 171,
+                "speed": [3,7],
+                "def_level": 0,
+                "resistances": {
+                    "slash":1,
+                    "pierce":0.5,
+                    "blunt":2   
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[70,30],
+                "tag":["Rupture"],
+                "sub_tag": ["Pierce Fragility"],
+                "skill1":{
+                    "name":"Swipe",
+                    "sin":"Gloom",
+                    "dmg_type":"Slash",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Jag",
+                    "sin":"Gluttony",
+                    "dmg_type":"Pierce",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":10,
+                    "coin_number":1
+                },
+                "skill3":{
+                    "name":"Chop Up",
+                    "sin":"Sloth",
+                    "dmg_type":"Pierce",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Gloom",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":8,
+                    "coin_power":3
+                }
+            },
+            {  
+                "sinner_name": "Faust",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 200,
+                "speed": [2,4],
+                "def_level": 1,
+                "resistances": {
+                    "slash":2,
+                    "pierce":0.5,
+                    "blunt":1   
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[60,30,15],
+                "tag":["Paralyze"],
+                "sub_tag": ["Offense Level Down","Attack Power Down"],
+                "skill1":{
+                    "name":"Downward Slash",
+                    "sin":"Pride",
+                    "dmg_type":"Blunt",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Upward Slash",
+                    "sin":"Sloth",
+                    "dmg_type":"Blunt",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Drilling Stab",
+                    "sin":"Gluttony",
+                    "dmg_type":"Pierce",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":7,
+                    "coin_power":2,
+                    "coin_number":2
+                },
+                "defense":{
+                    "type":"Evade",
+                    "sin":"Pride",
+                    "level":1,
+                    "atk_weight":1,
+                    "base_power":2,
+                    "coin_power":10
+                }
+            },
+            {  
+                "sinner_name": "Don Quixote",
+                "group_name": "LCB Sinner",
+                "rarity": "0",
+                "health": 157,
+                "speed": [3,6],
+                "def_level": -2,
+                "resistances": {
+                    "slash":1,
+                    "pierce":0.5,
+                    "blunt":2   
+                },
+                "world":"Limbus Company",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[70,40,20],
+                "tag":["Bleed"],
+                "skill1":{
+                    "name":"Joust",
+                    "sin":"Lust",
+                    "dmg_type":"Pierce",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Galloping Tilt",
+                    "sin":"Envy",
+                    "dmg_type":"Pierce",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":12,
+                    "coin_number":1
+                },
+                "skill3":{
+                    "name":"For Justice!",
+                    "sin":"Gluttony",
+                    "dmg_type":"Pierce",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Evade",
+                    "sin":"Lust",
+                    "level":-2,
+                    "atk_weight":1,
+                    "base_power":2,
+                    "coin_power":10
+                }
+            },
+
+            {  
+                "sinner_name": "Yi Sang",
+                "group_name": "Dieci Assoc.",
+                "addon": "South Section 4",
+                "rarity": "00",
+                "health": 195,
+                "speed": [4,6],
+                "def_level": 3,
+                "resistances": {
+                    "slash":1,
+                    "pierce":2,
+                    "blunt":0.5   
+                },
+                "world":"Dieci Association Southern Branch",
+                "season":0,
+                "release":"2024/01/25",
+                "stagger":[60,30],
+                "tag":["Discard","Sinking","Aggro"],
+                "skill1":{
+                    "name":"Expend Knowledge",
+                    "sin":"Gloom",
+                    "dmg_type":"Pierce",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Seal Shut",
+                    "sin":"Lust",
+                    "dmg_type":"Blunt",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "skill3":{
+                    "name":"Grace of Knowledge",
+                    "sin":"Sloth",
+                    "dmg_type":"Blunt",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":2,
+                    "coin_number":4
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Sloth",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":12,
+                    "coin_power":6
+                }
+            },
+            {  
+                "sinner_name": "Yi Sang",
+                "group_name": "Molar Office",
+                "addon": "Fixer",
+                "rarity": "00",
+                "health": 173,
+                "speed": [4,7],
+                "def_level": -2,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":2,
+                    "blunt":1   
+                },
+                "world":"Molar Office",
+                "season":2,
+                "release":"2023/09/14",
+                "stagger":[70,40,20],
+                "tag":["Tremor","Discard"],
+                "sub_tag":["Tremor Count","Defense Level Down"],
+                "skill1":{
+                    "name":"Stay Calm",
+                    "sin":"Lust",
+                    "dmg_type":"Pierce",
+                    "level":-2,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Gamble",
+                    "sin":"Sloth",
+                    "dmg_type":"Blunt",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":12,
+                    "coin_number":1
+                },
+                "skill3":{
+                    "name":"Grinding the Molars",
+                    "sin":"Wrath",
+                    "dmg_type":"Blunt",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Sloth",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":10,
+                    "coin_power":5
+                }
+            },
+            {  
+                "sinner_name": "Yi Sang",
+                "group_name": "Seven Assoc.",
+                "addon": "South Section 6",
+                "rarity": "00",
+                "health": 195,
+                "speed": [5,8],
+                "def_level": 2,
+                "resistances": {
+                    "slash":1,
+                    "pierce":0.5,
+                    "blunt":2   
+                },
+                "world":"Seven Association Southern Branch",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[60,30],
+                "tag":["Rupture","Paralyze","Fragile"],
+                "sub_tag":["Pierce Fragility"],
+                "skill1":{
+                    "name":"Flèche",
+                    "sin":"Gloom",
+                    "dmg_type":"Pierce",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Riposte",
+                    "sin":"Gluttony",
+                    "dmg_type":"Pierce",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Moulinet",
+                    "sin":"Sloth",
+                    "dmg_type":"Blunt",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Gluttony",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":9,
+                    "coin_power":3
+                }
+            },
+            {  
+                "sinner_name": "Yi Sang",
+                "group_name": "The Pequod",
+                "addon": "First Mate",
+                "rarity": "00",
+                "health": 165,
+                "speed": [4,7],
+                "def_level": -3,
+                "resistances": {
+                    "slash":2,
+                    "pierce":0.5,
+                    "blunt":1   
+                },
+                "world":"U Corp.",
+                "season":3,
+                "release":"2023/12/07",
+                "stagger":[65,35,15],
+                "tag":["Poise","Bleed"],
+                "sub_tag":["Bind"],
+                "skill1":{
+                    "name":"Impale",
+                    "sin":"Pride",
+                    "dmg_type":"Pierce",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Relentless Stabbing",
+                    "sin":"Envy",
+                    "dmg_type":"Pierce",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Ambush",
+                    "sin":"Gluttony",
+                    "dmg_type":"Pierce",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":6,
+                    "coin_number":2
+                },
+                "defense":{
+                    "type":"Evade",
+                    "sin":"Pride",
+                    "level":-3,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":10
+                }
+            },
+            {  
+                "sinner_name": "Yi Sang",
+                "group_name": "Blade Lineage",
+                "addon": "Salsu",
+                "rarity": "000",
+                "health": 157,
+                "speed": [3,7],
+                "def_level": -4,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":2,
+                    "blunt":1   
+                },
+                "world":"Kurokumo Clan and Blade Lineage",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[70,40,20],
+                "tag":["Poise"],
+                "skill1":{
+                    "name":"Striker's Stance",
+                    "sin":"Pride",
+                    "dmg_type":"Slash",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Heel Turn",
+                    "sin":"Wrath",
+                    "dmg_type":"Slash",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":7,
+                    "coin_power":2,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Flank Thrust",
+                    "sin":"Envy",
+                    "dmg_type":"Slash",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":8,
+                    "coin_power":2,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Counter",
+                    "sin":"Pride",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":10,
+                    "coin_power":8
+                }
+            },
+            {  
+                "sinner_name": "Yi Sang",
+                "group_name": "Effloresced E.G.O::",
+                "addon": "Spicebush",
+                "rarity": "000",
+                "health": 157,
+                "speed": [3,7],
+                "def_level": -4,
+                "resistances": {
+                    "slash":1,
+                    "pierce":0.5,
+                    "blunt":2   
+                },
+                "world":"K Corp.",
+                "season":2,
+                "release":"2023/06/15",
+                "stagger":[70,40,20],
+                "tag":["Sinking"],
+                "sub_tag":["Tremor Count"],
+                "skill1":{
+                    "name":"Sprouting Bud",
+                    "sin":"Gluttony",
+                    "dmg_type":"Pierce",
+                    "level":4,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":2,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Moment's Floral Breeze",
+                    "sin":"Sloth",
+                    "dmg_type":"Blunt",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":4,
+                    "coin_number":3
+                },
+                "skill3":{
+                    "name":"Bloodsteeped Scent",
+                    "sin":"Pride",
+                    "dmg_type":"Pierce",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":4,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Evade",
+                    "sin":"Sloth",
+                    "level":-2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":10
+                }
+            },
+            {  
+                "sinner_name": "Yi Sang",
+                "group_name": "W Corp.",
+                "addon": "L3 Cleanup Agent",
+                "rarity": "000",
+                "health": 188,
+                "speed": [3,7],
+                "def_level": -2,
+                "resistances": {
+                    "slash":1,
+                    "pierce":0.5,
+                    "blunt":2   
+                },
+                "world":"W Corp.",
+                "season":0,
+                "release":"2023/11/09",
+                "stagger":[65,35],
+                "tag":["Rupture","Charge"],
+                "sub_tag":["Bind"],
+                "skill1":{
+                    "name":"Dimensional Slit",
+                    "sin":"Sloth",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":6,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Energy Cycle",
+                    "sin":"Gluttony",
+                    "dmg_type":"Pierce",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":5,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Dimensional Rip",
+                    "sin":"Gloom",
+                    "dmg_type":"Pierce",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":4,
+                    "coin_number":3
+                },
+                "defense":{
+                    "name":"Hollow Dimension",
+                    "type":"Evade",
+                    "sin":"Gloom",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":10
+                }
+            },                        
+            {
+                "sinner_name": "Faust",
+                "group_name": "Lobotomy Corp.",
+                "addon": "Remnant",
+                "rarity": "00",
+                "health": 165,
+                "speed": [3,6],
+                "def_level": -4,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":1,
+                    "blunt":2   
+                },
+                "world":"L Corp.",
+                "season":1,
+                "release":"2023/02/27",
+                "stagger":[70,40,20],
+                "tag":["Rupture","Poise"],
+                "skill1":{
+                    "name":"Sole Strike",
+                    "sin":"Lust",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":8,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Deep Cuts",
+                    "sin":"Gloom",
+                    "dmg_type":"Pierce",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "skill3":{
+                    "name":"Opportunistic Slash",
+                    "sin":"Envy",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":8,
+                    "coin_number":2
+                },
+                "defense":{
+                    "type":"Evade",
+                    "sin":"Envy",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":10
+                }
+            },
+            {
+                "sinner_name": "Faust",
+                "group_name": "W Corp.",
+                "addon": "L2 Cleanup Agent",
+                "rarity": "00",
+                "health": 210,
+                "speed": [2,4],
+                "def_level": 3,
+                "resistances": {
+                    "slash":1,
+                    "pierce":0.5,
+                    "blunt":2   
+                },
+                "world":"W Corp.",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[60,30],
+                "tag":["Charge","Paralyze"],
+                "sub_tag":["Bind","Attack Power Down"],
+                "skill1":{
+                    "name":"Energy Cycle",
+                    "sin":"Lust",
+                    "dmg_type":"Blunt",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":8,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Leap",
+                    "sin":"Gloom",
+                    "dmg_type":"Blunt",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Overcharge",
+                    "sin":"Wrath",
+                    "dmg_type":"Blunt",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Envy",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":10,
+                    "coin_power":2
+                }
+            },
+            {
+                "sinner_name": "Faust",
+                "group_name": "Zwei Assoc.",
+                "addon": "South Section 4",
+                "rarity": "00",
+                "health": 195,
+                "speed": [4,6],
+                "def_level": 2,
+                "resistances": {
+                    "slash":2,
+                    "pierce":1,
+                    "blunt":0.5   
+                },
+                "world":"Zwei Association Southern Branch.",
+                "season":0,
+                "release":"2023/08/10",
+                "stagger":[55,20],
+                "tag":["Aggro"],
+                "skill1":{
+                    "name":"Patrolling",
+                    "sin":"Envy",
+                    "dmg_type":"Pierce",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Client Protection",
+                    "sin":"Gloom",
+                    "dmg_type":"Slash",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "skill3":{
+                    "name":"Law and Order",
+                    "sin":"Lust",
+                    "dmg_type":"Slash",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":5,
+                    "coin_number":2
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Gloom",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":12,
+                    "coin_power":6
+                }
+            },
+            {
+                "sinner_name": "Faust",
+                "group_name": "Blade Lineage",
+                "addon": "Salsu",
+                "rarity": "000",
+                "health": 176,
+                "speed": [3,8],
+                "def_level": -2,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":1,
+                    "blunt":2   
+                },
+                "world":"Kurokumo Clan and Blade Lineage",
+                "season":3,
+                "release":"2024/02/22",
+                "stagger":[65,35,15],
+                "tag":["Bleed","Poise"],
+                "sub_tag": ["Slash Fragility","Defense Level Down","Bind"],
+                "skill1":{
+                    "name":"Moonlit Blade Dance",
+                    "sin":"Sloth",
+                    "dmg_type":"Slash",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":2,
+                    "coin_number":3
+                },
+                "skill2":{
+                    "name":"Acupuncture",
+                    "sin":"Pride",
+                    "dmg_type":"Pierce",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":6,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Red Plum Blossoms Scatter",
+                    "sin":"Gloom",
+                    "dmg_type":"Slash",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":6,
+                    "coin_number":2
+                },
+                "defense":{
+                    "name":"Redirect",
+                    "type":"Guard",
+                    "sin":"Gloom",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":10,
+                    "coin_power":4
+                }
+            },
+            {
+                "sinner_name": "Faust",
+                "group_name": "Lobotomy E.G.O::",
+                "addon": "Regret",
+                "rarity": "000",
+                "health": 195,
+                "speed": [3,6],
+                "def_level": 1,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":2,
+                    "blunt":1   
+                },
+                "world":"Lobotomy Corporation Headquarters - 1",
+                "season":"Walpurgisnacht-1",
+                "release":"2023/10/26",
+                "stagger":[65,35],
+                "tag":["Tremor"],
+                "sub_tag":["Tremor Count","Offense Level Down","Plus Coin Drop"],
+                "skill1":{
+                    "name":"Contracting Straight-jacket",
+                    "sin":"Sloth",
+                    "dmg_type":"Blunt",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Metallic Ringing",
+                    "sin":"Pride",
+                    "dmg_type":"Blunt",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":4,
+                    "coin_number":3
+                },
+                "skill3":{
+                    "name":"Unleashed Violence",
+                    "sin":"Wrath",
+                    "dmg_type":"Blunt",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":5,
+                    "coin_number":3
+                },
+                "defense":{
+                    "name":"Gathering Spite",
+                    "type":"Counter",
+                    "sin":"Gloom",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":9,
+                    "coin_power":6
+                }
+            },
+            {
+                "sinner_name": "Faust",
+                "group_name": "Seven Assoc.",
+                "addon": "South Section 4",
+                "rarity": "000",
+                "health": 172,
+                "speed": [4,7],
+                "def_level": -2,
+                "resistances": {
+                    "slash":1,
+                    "pierce":0.5,
+                    "blunt":2   
+                },
+                "world":"Seven Association Southern Branch",
+                "season":0,
+                "release":"2023/09/07",
+                "stagger":[70,40,20],
+                "tag":["Rupture","Poise"],
+                "skill1":{
+                    "name":"Predictive Analysis",
+                    "sin":"Envy",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Dissect Target",
+                    "sin":"Gloom",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":4,
+                    "coin_number":3
+                },
+                "skill3":{
+                    "name":"Profiling",
+                    "sin":"Gluttony",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":4,
+                    "coin_number":3
+                },
+                "defense":{
+                    "name":"Let's Wrap It Up",
+                    "type":"Block",
+                    "sin":"Lust",
+                    "level":-2,
+                    "atk_weight":1,
+                    "base_power":10,
+                    "coin_power":4
+                }
+            },
+            {
+                "sinner_name": "Faust",
+                "group_name": "N Corp.",
+                "special_group": true,
+                "addon": "The One Who Grips",
+                "rarity": "000",
+                "health": 157,
+                "speed": [4,7],
+                "def_level": -1,
+                "resistances": {
+                    "slash":2,
+                    "pierce":1,
+                    "blunt":0.5  
+                },
+                "world":"N Corp.",
+                "season":1,
+                "release":"2023/03/23",
+                "stagger":[70,40,20],
+                "tag":["Bleed","Paralyze"],
+                "skill1":{
+                    "name":"Cackle",
+                    "sin":"Envy",
+                    "dmg_type":"Pierce",
+                    "level":4,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"The Gripping",
+                    "sin":"Lust",
+                    "dmg_type":"Pierce",
+                    "level":4,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":4,
+                    "coin_number":3
+                },
+                "skill3":{
+                    "name":"Execution",
+                    "sin":"Pride",
+                    "dmg_type":"Blunt",
+                    "level":4,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":2,
+                    "coin_number":3
+                },
+                "defense":{
+                    "name":"Such Filth",
+                    "type":"Evade",
+                    "sin":"Lust",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":10
+                }
+            },
+            {
+                "sinner_name": "Don Quixote",
+                "group_name": "Blade Lineage",
+                "addon": "Salsu",
+                "rarity": "00",
+                "health": 169,
+                "speed": [4,8],
+                "def_level": -2,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":1,
+                    "blunt":2   
+                },
+                "world":"Kurokumo Clan and Blade Lineage",
+                "season":3,
+                "release":"2024/02/22",
+                "stagger":[70,40,20],
+                "tag":["Poise"],
+                "skill1":{
+                    "name":"Draw of the Sword",
+                    "sin":"Pride",
+                    "dmg_type":"Pierce",
+                    "level":1,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Blade Arc",
+                    "sin":"Envy",
+                    "dmg_type":"Slash",
+                    "level":1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":5,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Fare Thee Well!",
+                    "sin":"Sloth",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Evade",
+                    "sin":"Pride",
+                    "level":-2,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":10
+                }
+            },
+            {
+                "sinner_name": "Don Quixote",
+                "group_name": "Lobotomy E.G.O::",
+                "addon": "Lantern",
+                "rarity": "00",
+                "health": 195,
+                "speed": [4,6],
+                "def_level": 4,
+                "resistances": {
+                    "slash":1,
+                    "pierce":0.5,
+                    "blunt":2   
+                },
+                "world":"Lobotomy Corporation Headquarters - 1",
+                "season":"Walpurgisnacht-2",
+                "release":"2024/01/11",
+                "stagger":[50,20],
+                "tag":["Aggro","Rupture"],
+                "skill1":{
+                    "name":"I Shall Nibble Thee!",
+                    "sin":"Gluttony",
+                    "dmg_type":"Slash",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Flashing Lure",
+                    "sin":"Lust",
+                    "dmg_type":"Slash",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "skill3":{
+                    "name":"Whirlwind Om-Nom-Nom!",
+                    "sin":"Gloom",
+                    "dmg_type":"Pierce",
+                    "level":1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "defense":{
+                    "name":"Chattering Teeth",
+                    "type":"Guard",
+                    "sin":"Gluttony",
+                    "level":4,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":10
+                }
+            },
+            {
+                "sinner_name": "Don Quixote",
+                "group_name": "N Corp.",
+                "addon": "Mittelhammer",
+                "rarity": "00",
+                "health": 195,
+                "speed": [2,5],
+                "def_level": 1,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":1,
+                    "blunt":2   
+                },
+                "world":"N Corp.",
+                "season":1,
+                "release":"2023/05/03",
+                "stagger":[65,35],
+                "tag":["Tremor","Bleed","Paralyze"],
+                "sub_tag":["Attack Power Down"],
+                "skill1":{
+                    "name":"Rightful Purge",
+                    "sin":"Lust",
+                    "dmg_type":"Pierce",
+                    "level":1,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Enactment!",
+                    "sin":"Lust",
+                    "dmg_type":"Slash",
+                    "level":1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":12,
+                    "coin_number":1
+                },
+                "skill3":{
+                    "name":"Fanatical Judgement",
+                    "sin":"Wrath",
+                    "dmg_type":"Blunt",
+                    "level":1,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Gluttony",
+                    "level":4,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":10
+                }
+            },
+            {
+                "sinner_name": "Don Quixote",
+                "group_name": "Shi Assoc.",
+                "addon": "South Section 5 Director",
+                "rarity": "00",
+                "health": 165,
+                "speed": [3,6],
+                "def_level": -4,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":2,
+                    "blunt":1  
+                },
+                "world":"Shi Association Southern Branch",
+                "season": 0,
+                "release":"2023/02/27",
+                "stagger":[80,60],
+                "tag":["Poise"],
+                "skill1":{
+                    "name":"Catch Breath",
+                    "sin":"Wrath",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":7,
+                    "coin_number":1
+                },
+                "skill2":{
+                    "name":"Dual Strike",
+                    "sin":"Envy",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":6,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Overbreathe",
+                    "sin":"Lust",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":21,
+                    "coin_number":1
+                },
+                "defense":{
+                    "type":"Evade",
+                    "sin":"Wrath",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":10
+                }
+            },
+            {
+                "sinner_name": "Don Quixote",
+                "group_name": "Cinq Assoc.",
+                "addon": "South Section 5 Director",
+                "rarity": "000",
+                "health": 163,
+                "speed": [4,7],
+                "def_level": -2,
+                "resistances": {
+                    "slash":2,
+                    "pierce":0.5,
+                    "blunt":1   
+                },
+                "world":"Cinq Association Southern Branch",
+                "season":0,
+                "release":"2023/07/20",
+                "stagger":[70,40,20],
+                "tag":[""],
+                "sub_tag":["Bind"],
+                "skill1":{
+                    "name":"Remise",
+                    "sin":"Lust",
+                    "dmg_type":"Pierce",
+                    "level":4,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Flèche",
+                    "sin":"Gloom",
+                    "dmg_type":"Pierce",
+                    "level":4,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":5,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"Salut!",
+                    "sin":"Pride",
+                    "dmg_type":"Pierce",
+                    "level":4,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":6,
+                    "coin_number":2
+                },
+                "defense":{
+                    "name":"Défensive",
+                    "type":"Evade",
+                    "sin":"Pride",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":10
+                }
+            },
+            {
+                "sinner_name": "Don Quixote",
+                "group_name": "The Middle",
+                "addon": "Little Sister",
+                "rarity": "000",
+                "health": 204,
+                "speed": [4,6],
+                "def_level": 5,
+                "resistances": {
+                    "slash":2,
+                    "pierce":1,
+                    "blunt":0.5   
+                },
+                "world":"U Corp.",
+                "season":3,
+                "release":"2023/11/23",
+                "stagger":[50,20],
+                "tag":["Bleed"],
+                "sub_tag":["Damage Down"],
+                "skill1":{
+                    "name":"Checking the Book",
+                    "sin":"Wrath",
+                    "dmg_type":"Blunt",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Proof of Loyalty",
+                    "sin":"Envy",
+                    "dmg_type":"Blunt",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":6,
+                    "coin_number":2
+                },
+                "skill3":{
+                    "name":"A Just Vengeance",
+                    "sin":"Pride",
+                    "dmg_type":"Blunt",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":4
+                },
+                "defense":{
+                    "name":"Multifold Retribution",
+                    "type":"Counter",
+                    "sin":"Pride",
+                    "dmg_type":"Blunt",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":4,
+                    "coin_number":2
+                }
+            },
+            {
+            "sinner_name": "Don Quixote",
+            "group_name": "W Corp.",
+            "addon": "L3 Cleanup Agent",
+            "rarity": "000",
+            "health": 173,
+            "speed": [3,6],
+            "def_level": -1,
+            "resistances": {
+                "slash":1,
+                "pierce":0.5,
+                "blunt":2   
+            },
+            "world":"W Corp.",
+            "season":0,
+            "release":"2023/02/27",
+            "stagger":[70,40,20],
+            "tag":["Charge","Rupture","Fragile"],
+            "skill1":{
+                "name":"Rip",
+                "sin":"Sloth",
+                "dmg_type":"Slash",
+                "level":3,
+                "atk_weight":1,
+                "base_power":5,
+                "coin_power":6,
+                "coin_number":1
+            },
+            "skill2":{
+                "name":"Leap",
+                "sin":"Gloom",
+                "dmg_type":"Pierce",
+                "level":3,
+                "atk_weight":1,
+                "base_power":4,
+                "coin_power":4,
+                "coin_number":3
+            },
+            "skill3":{
+                "name":"Rip Space",
+                "sin":"Envy",
+                "dmg_type":"Slash",
+                "level":3,
+                "atk_weight":1,
+                "base_power":1,
+                "coin_power":2,
+                "coin_number":5
+            },
+            "defense":{
+                "type":"Evade",
+                "sin":"Gloom",
+                "level":0,
+                "atk_weight":1,
+                "base_power":4,
+                "coin_power":10
+            }
+            },
+            {
+                "sinner_name": "Gregor",
+                "group_name": "Liu Assoc.",
+                "addon": "South Section 6",
+                "rarity": "00",
+                "health": 150,
+                "speed": [3,7],
+                "def_level": -4,
+                "resistances": {
+                    "slash":1,
+                    "pierce":2,
+                    "blunt":0.5
+                },
+                "world":"Liu Association Southern Branch",
+                "season":0,
+                "release":"2023/02/27",
+                "stagger":[70,40,20],
+                "tag":["Burn"],
+                "skill1":{
+                    "name":"Single-point Stab",
+                    "sin":"Wrath",
+                    "dmg_type":"Blunt",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":2,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Rush Down",
+                    "sin":"Lust",
+                    "dmg_type":"Blunt",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":2,
+                    "coin_number":3
+                },
+                "skill3":{
+                    "name":"Perfected Palm Strike",
+                    "sin":"Sloth",
+                    "dmg_type":"Blunt",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":2,
+                    "coin_number":4
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Sloth",
+                    "level":-2,
+                    "atk_weight":1,
+                    "base_power":8,
+                    "coin_power":5
+                }
+            },
+            {
+                "sinner_name": "Gregor",
+                "group_name": "R.B.",
+                "addon": "Sous-chef",
+                "rarity": "00",
+                "health": 184,
+                "speed": [3,7],
+                "def_level": 0,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":2,
+                    "blunt":1
+                },
+                "world":"District 23 Backstreets",
+                "season":1,
+                "release":"2023/04/20",
+                "stagger":[70,30],
+                "tag":["Bleed", "Paralyze"],
+                "sub_tag":["Bind"],
+                "skill1":{
+                    "name":"Keep It Fresh",
+                    "sin":"Lust",
+                    "dmg_type":"Blunt",
+                    "level":1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":2,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"You Fresh Enough?",
+                    "sin":"Gluttony",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":8,
+                    "coin_number":1
+                },
+                "skill3":{
+                    "name":"Butcher Viand",
+                    "sin":"Envy",
+                    "dmg_type":"Slash",
+                    "level":3,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":1,
+                    "coin_number":4
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Lust",
+                    "level":2,
+                    "atk_weight":1,
+                    "base_power":8,
+                    "coin_power":8
+                }
+            },
+            {
+                "sinner_name": "Gregor",
+                "group_name": "G Corp.",
+                "addon":"Manager Corporal",
+                "rarity": "000",
+                "health": 157,
+                "speed": [3,7],
+                "def_level": -2,
+                "resistances": {
+                    "slash":1,
+                    "pierce":0.5,
+                    "blunt":2
+                },
+                "world":"Former G Corp.",
+                "season":1,
+                "release":"2023/02/27",
+                "stagger":[70,40,20],
+                "tag":["Rupture"],
+                "skill1":{
+                    "name":"Hack",
+                    "sin":"Gluttony",
+                    "dmg_type":"Slash",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Dismember",
+                    "sin":"Sloth",
+                    "dmg_type":"Slash",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":6,
+                    "coin_power":10,
+                    "coin_number":1
+                },
+                "skill3":{
+                    "name":"Eviscerate",
+                    "sin":"Lust",
+                    "dmg_type":"Pierce",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":2,
+                    "coin_number":4
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Gluttony",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":10,
+                    "coin_power":4
+                }
+            },
+            {
+                "sinner_name": "Gregor",
+                "group_name": "Rosespanner Workshop",
+                "addon":"Fixer",
+                "rarity": "00",
+                "health": 165,
+                "speed": [4,6],
+                "def_level": -2,
+                "resistances": {
+                    "slash":0.5,
+                    "pierce":2,
+                    "blunt":1
+                },
+                "world":"K Corp.",
+                "season":2,
+                "release":"2023/06/08",
+                "stagger":[65,35,15],
+                "tag":["Charge", "Rupture", "Tremor"],
+                "skill1":{
+                    "name":"Rev Up",
+                    "sin":"Gluttony",
+                    "dmg_type":"Slash",
+                    "level":1,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":4,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Grease Chains",
+                    "sin":"Envy",
+                    "dmg_type":"Pierce",
+                    "level":1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":12,
+                    "coin_number":1
+                },
+                "skill3":{
+                    "name":"Let's Grind 'Em",
+                    "sin":"Gloom",
+                    "dmg_type":"Slash",
+                    "level":1,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "defense":{
+                    "type":"Guard",
+                    "sin":"Gluttony",
+                    "level":-1,
+                    "atk_weight":1,
+                    "base_power":8,
+                    "coin_power":8
+                }
+            },
+            {
+                "sinner_name": "Gregor",
+                "group_name": "Zwei Assoc.",
+                "addon": "South Section 4",
+                "rarity": "000",
+                "health": 210,
+                "speed": [4,8],
+                "def_level": 5,
+                "resistances": {
+                    "slash":2,
+                    "pierce":1,
+                    "blunt":0.5
+                },
+                "world":"Zwei Association Southern Branch",
+                "season":0,
+                "release":"2023/08/10",
+                "stagger":[50],
+                "tag":["Aggro"],
+                "skill1":{
+                    "name":"Standoff",
+                    "sin":"Sloth",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":4,
+                    "coin_power":3,
+                    "coin_number":2
+                },
+                "skill2":{
+                    "name":"Flexible Suppression",
+                    "sin":"Gluttony",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":3,
+                    "coin_power":3,
+                    "coin_number":4
+                },
+                "skill3":{
+                    "name":"Guardian",
+                    "sin":"Gloom",
+                    "dmg_type":"Slash",
+                    "level":0,
+                    "atk_weight":1,
+                    "base_power":5,
+                    "coin_power":3,
+                    "coin_number":3
+                },
+                "defense":{
+                    "name":"The Best Defense",
+                    "type":"Guard",
+                    "sin":"Sloth",
+                    "level":5,
+                    "atk_weight":1,
+                    "base_power":15,
+                    "coin_power":5
+                }
+            },
+            {
+                "sinner_name": "Gregor",
+                "group_name": "Twinhook Pirates",
+                "addon": "First Mate",
+                "rarity": "000",
+                "health": 157,
+                "speed": [3,7],
+                "def_level": -3,
+                "resistances": {
+                  "slash":0.5,
+                  "pierce":1,
+                  "blunt":2
+                },
+                "world":"U Corp.",
+                "season":3,
+                "release":"2023/11/16",
+                "stagger":[70,40,20],
+                "tag":["Poise", "Bleed", "Ammo"],
+                "skill1":{
+                  "name":"Negotiation Start",
+                  "sin":"Sloth",
+                  "dmg_type":"Pierce",
+                  "level":2,
+                  "atk_weight":1,
+                  "base_power":4,
+                  "coin_power":3,
+                  "coin_number":2
+                },
+                "skill2":{
+                  "name":"Unilateral Business",
+                  "sin":"Pride",
+                  "dmg_type":"Pierce",
+                  "level":3,
+                  "atk_weight":1,
+                  "base_power":4,
+                  "coin_power":6,
+                  "coin_number":2
+                },
+                "skill3":{
+                  "name":"Foregone Conclusion",
+                  "sin":"Gloom",
+                  "dmg_type":"Pierce",
+                  "level":5,
+                  "atk_weight":1,
+                  "base_power":5,
+                  "coin_power":6,
+                  "coin_number":2
+                },
+                "defense":{
+                  "name":"Take a Breather",
+                  "type":"Evade",
+                  "sin":"Gloom",
+                  "level":-3,
+                  "atk_weight":1,
+                  "base_power":4,
+                  "coin_power":10
+                }
+            },
+            {
+                "sinner_name": "Gregor",
+                "group_name": "Kurokumo Clan",
+                "addon": "Captain",
+                "rarity": "00",
+                "health": 180,
+                "speed": [4,6],
+                "def_level": 1,
+                "resistances": {
+                  "slash":1,
+                  "pierce":0.5,
+                  "blunt":2
+                },
+                "world":"Kurokumo Clan and Blade Lineage",
+                "season":3,
+                "release":"2024/02/22",
+                "stagger":[65,35,15],
+                "tag":["Bleed"],
+                "sub_tag":["Offense Level Down","Attack Power Down","Plus Coin Drop"],
+                "skill1":{
+                  "name":"Lenticular Rend",
+                  "sin":"Sloth",
+                  "dmg_type":"Slash",
+                  "level":1,
+                  "atk_weight":1,
+                  "base_power":5,
+                  "coin_power":5,
+                  "coin_number":1
+                },
+                "skill2":{
+                  "name":"Shadow Cloud",
+                  "sin":"Lust",
+                  "dmg_type":"Blunt",
+                  "level":2,
+                  "atk_weight":1,
+                  "base_power":5,
+                  "coin_power":5,
+                  "coin_number":2
+                },
+                "skill3":{
+                  "name":"Shadowcloud Shattercleave",
+                  "sin":"Gloom",
+                  "dmg_type":"Slash",
+                  "level":2,
+                  "atk_weight":1,
+                  "base_power":4,
+                  "coin_power":3,
+                  "coin_number":3
+                },
+                "defense":{
+                  "type":"Guard",
+                  "sin":"Lust",
+                  "level":1,
+                  "atk_weight":1,
+                  "base_power":8,
+                  "coin_power":8
+                }
+              }
+            
+        ]
+}

@@ -1,0 +1,48 @@
+.buttonBase {
+    background-color: #4d0000; 
+    color: white; 
+    border-radius:0;
+    outline: 1px solid;
+    outline-color: #ebc932;
+    font-size: auto; 
+}
+
+
+.buttonNormal {
+    transition: background-color 0.2s; 
+}
+
+.buttonNormal:hover {
+  background-color: #aa0000;
+  outline: 1px solid;
+  outline-color: #ebc932;
+}
+
+.buttonLabel {
+    --bs-btn-bg: #4d0000; 
+    --bs-btn-color: var(--bs-light); 
+    --bs-btn-border-radius: 0rem;
+    --bs-btn-font-size: 0.9rem;
+    --bs-btn-padding-y: 0.15rem;
+    --bs-btn-hover-bg: #500f0f;
+    --bs-btn-hover-color: var(--bs-btn-color);
+    --bs-btn-hover-border-color: var(--bs-light);
+    --bs-btn-border-color: #ebc932; 
+}
+.buttonLabel:focus {
+    outline: 2px solid #ebc932; /* Example outline style */
+    outline-offset: 2px;
+}
+.buttonList {
+    --bs-btn-bg: #9c4141;
+    --bs-btn-color: var(--bs-light);
+    --bs-btn-border-radius: 0rem;
+    --bs-btn-font-size: 0.85rem;
+    --bs-btn-padding-y: 0.025rem;
+    --bs-btn-hover-bg: #dd6060;
+    --bs-btn-hover-color: var(--bs-btn-color);
+    --bs-btn-hover-border-color: var(--bs-light);
+    --bs-btn-active-color: var(--bs-btn-color);
+    --bs-btn-active-bg:#ac0707;
+    --bs-btn-active-border-color: #ebc932; 
+}
