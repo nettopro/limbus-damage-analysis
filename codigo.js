@@ -25,8 +25,18 @@ $(document).ready(function() {
         const listContainer = document.getElementById('list-container');
         //Creating the identities rows and putting them in the container.
         select_start.forEach(item => {
-            const firstDivRow = document.createElement('div');
-                firstDivRow.className = 'row list-row';        
+            //First Row
+            $('<div></div>')
+                .addClass('row list-row')
+                    .appendTo('.list-container');     
+            //Main button
+            $('<button>')
+                .addClass('btn buttonList')
+                    .attr({'type':'button',
+                    'data-bs-toggle':'button',
+                    'aria-pressed':true}).appendTo('.list-row');
+            //Second Row
+            $('.list-row').clone().removeClass('list-row').appendTo('.buttonList')
             const secondDivRow = document.createElement('div');
                 secondDivRow.className = 'row';   
             const idNameDiv = document.createElement('div');
@@ -53,11 +63,6 @@ $(document).ready(function() {
             const seasonDiv = document.createElement('div');
                 seasonDiv.className = "col-md-2 p-0 text-center label-list";
                 seasonDiv.textContent = item.season;        
-            const identityList = document.createElement('button');
-                identityList.setAttribute("type","button");
-                identityList.className = "btn buttonList";
-                identityList.setAttribute("data-bs-toggle","button");
-                identityList.setAttribute("aria-pressed","true");
             listContainer.appendChild(firstDivRow);
             firstDivRow.appendChild(identityList);
             identityList.append(secondDivRow);
