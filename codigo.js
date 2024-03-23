@@ -8,7 +8,7 @@ $(document).ready(function() {
         $('#search-input').on('keyup', function() {
             var value = $(this).val().toLowerCase();
             
-            $('.list-row').filter(function() {
+            $('#list-container .row').filter(function() {
                 var matchValue = false;
                 $(this).find('.label-list').each(function() {
                     // If the label text matches the search value, set match to true
