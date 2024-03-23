@@ -46,3 +46,13 @@
     --bs-btn-active-bg:#ac0707;
     --bs-btn-active-border-color: #ebc932; 
 }
+
+.btnGroupSpacing .btn{
+    margin-right: 10px; /* Adjust the spacing as needed */
+}
+
+.modal-content{
+    background: #4d0000;
+    color: white;
+    border-color: #ebc932;
+}
