@@ -22,54 +22,35 @@ $(document).ready(function() {
         let sortAscending=true;
         let filter_label=0; 
         //Selecting the container that all the rows/buttons are in.
-        const listContainer = document.getElementById('list-container');
         //Creating the identities rows and putting them in the container.
         select_start.forEach(item => {
             //First Row
-            $('<div></div>')
-                .addClass('row list-row')
-                    .appendTo('.list-container');     
+            let firstRow = $('<div></div>')
+                .addClass('row')
+                    .appendTo('#list-container');     
             //Main button
-            $('<button>')
+            let mainButton = $('<button>')
                 .addClass('btn buttonList')
                     .attr({'type':'button',
                     'data-bs-toggle':'button',
-                    'aria-pressed':true}).appendTo('.list-row');
+                    'aria-pressed':true}).appendTo(firstRow);
             //Second Row
-            $('.list-row').clone().removeClass('list-row').appendTo('.buttonList')
-            const secondDivRow = document.createElement('div');
-                secondDivRow.className = 'row';   
-            const idNameDiv = document.createElement('div');
-                let idFinalName;
-                idNameDiv.className = "col-md-6 p-0 label-list";
-                if(item.special_group){
-                    idFinalName = item.addon+" "+item.sinner_name;
-                }
-                else{
-                    if(item.addon==undefined){
-                        idFinalName = item.group_name+" "+item.sinner_name;
-                    }
-                    else{
-                        idFinalName = item.group_name+" "+item.addon+" "+item.sinner_name;
-                    }
-                }
-                idNameDiv.textContent=idFinalName;
-            const sinnerNameDiv = document.createElement('div');
-                sinnerNameDiv.className = "col-md-2 p-0 label-list";
-                sinnerNameDiv.textContent = item.sinner_name;
-            const rarityDiv = document.createElement('div');
-                rarityDiv.className = "col-md-2 p-0 text-center label-list";
-                rarityDiv.textContent = item.rarity;
-            const seasonDiv = document.createElement('div');
-                seasonDiv.className = "col-md-2 p-0 text-center label-list";
-                seasonDiv.textContent = item.season;        
-            listContainer.appendChild(firstDivRow);
-            firstDivRow.appendChild(identityList);
-            identityList.append(secondDivRow);
-            secondDivRow.append(idNameDiv);
-            secondDivRow.append(sinnerNameDiv);
-            secondDivRow.append(rarityDiv);
-            secondDivRow.append(seasonDiv);
+            let secondRow = $('<div></div>')
+                .addClass('row')
+                    .appendTo(mainButton);
+            //Identity Name Label
+            let idFinalName = item.special_group ? 
+            item.addon + " " + item.sinner_name : 
+            item.group_name + " " + item.addon + " " + item.sinner_name;
+            //Append Labels to Second Row
+            //Identity Label
+            $('<div></div>').addClass('col-md-6 p-0 label-list').text(idFinalName).appendTo(secondRow);
+            //Sinner Name Label
+            $('<div></div>').addClass('col-md-2 p-0 label-list').text(item.sinner_name).appendTo(secondRow);
+            //Rarity Label
+            $('<div></div>').addClass('col-md-2 p-0 label-list text-center').text(item.rarity).appendTo(secondRow);
+            //Season Label
+            $('<div></div>').addClass('col-md-2 p-0 label-list text-center').text(item.season).appendTo(secondRow);     
         });
         let rowsArray = [];
         //Pushing the rows into an array (For some reason, it pushes the row then makes an empty one?)

@@ -4,6 +4,7 @@
             {  
                 "sinner_name": "Yi Sang",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 171,
                 "speed": [4,8],
@@ -60,6 +61,7 @@
             {  
                 "sinner_name": "Sinclair",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 143,
                 "speed": [3,7],
@@ -97,7 +99,7 @@
                 "skill3":{
                     "name":"Ravaging Cut",
                     "sin":"Envy",
-                    "dmg_type":"Slash",
+                    "dmg_type":"Slash","addon": "",
                     "level":3,
                     "atk_weight":1,
                     "base_power":5,
@@ -117,6 +119,7 @@
             {  
                 "sinner_name": "Ryōshū",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 157,
                 "speed": [3,6],
@@ -173,6 +176,7 @@
             {  
                 "sinner_name": "Rodion",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 186,
                 "speed": [2,5],
@@ -230,6 +234,7 @@
             {  
                 "sinner_name": "Outis",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 143,
                 "speed": [3,7],
@@ -286,6 +291,7 @@
             {  
                 "sinner_name": "Meursault",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 214,
                 "speed": [2,3],
@@ -342,6 +348,7 @@
             {  
                 "sinner_name": "Ishmael",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 186,
                 "speed": [5,8],
@@ -399,6 +406,7 @@
             {  
                 "sinner_name": "Hong Lu",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 157,
                 "speed": [3,6],
@@ -456,6 +464,7 @@
             {  
                 "sinner_name": "Heathcliff",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 186,
                 "speed": [2,5],
@@ -513,6 +522,7 @@
             {  
                 "sinner_name": "Gregor",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 171,
                 "speed": [3,7],
@@ -570,6 +580,7 @@
             {  
                 "sinner_name": "Faust",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 200,
                 "speed": [2,4],
@@ -627,6 +638,7 @@
             {  
                 "sinner_name": "Don Quixote",
                 "group_name": "LCB Sinner",
+                "addon": "",
                 "rarity": "0",
                 "health": 157,
                 "speed": [3,6],
