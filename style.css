@@ -48,6 +48,12 @@
 }
 
 .btnGroupSpacing .btn{
+    background-color: #aa0000;
+    --bs-btn-color: var(--bs-light); 
+    --bs-btn-hover-bg: #500f0f;
+    --bs-btn-hover-color: var(--bs-btn-color);
+    --bs-btn-hover-border-color: var(--bs-light);
+    --bs-btn-border-color: #ebc932;     
     margin-right: 10px; /* Adjust the spacing as needed */
 }
 
